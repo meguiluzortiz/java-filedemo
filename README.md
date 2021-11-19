@@ -1,2 +1,2 @@
 # java-filedemo
-Java File upload demo with Springboot.
+Java file upload demo with Springboot.
